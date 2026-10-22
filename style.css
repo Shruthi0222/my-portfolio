@@ -1,0 +1,30 @@
+
+body {
+  font-family: Arial, sans-serif;
+  scroll-behavior: smooth;
+}
+
+.hero {
+  background: linear-gradient(135deg, #dbeafe, #ede9fe);
+  padding: 100px 20px;
+}
+
+.hero h1 {
+  font-size: 45px;
+  font-weight: bold;
+}
+
+.section {
+  padding-top: 45px;
+  padding-bottom: 30px;
+}
+
+.section h2 {
+  color: #4338ca;
+  margin-bottom: 20px;
+}
+
+.card {
+  border-radius: 12px;
+  box-shadow: 0 4px 12px #0001;
+}
